@@ -1,0 +1,12 @@
+{
+  "capacity_weight": 0.5,
+  "payment_weight": 0.5,
+  "a1_weight_in_capacity": 0.8,
+  "a2_weight_in_capacity": 0.19999999999999996,
+  "total_a1_weight": 0.4,
+  "total_a2_weight": 0.09999999999999998,
+  "total_p1_weight": 0.5,
+  "written_off_cap": 50.0,
+  "prior_k": 6.350792024361006,
+  "rationale": "Explainable policy baseline selected by stability; not predictive optimum."
+}

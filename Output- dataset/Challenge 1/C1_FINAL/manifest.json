@@ -1,0 +1,107 @@
+{
+  "source_run": "C:\\Users\\nguyen\\Desktop\\BI_r2\\BI10_ROUND02_DATASET\\C1_FINAL_VALIDATION_OUTPUT\\run_20261018_122943_11af97",
+  "generated_utc": "2026-10-18T05:35:18.899565+00:00",
+  "n_customers": 1000528,
+  "n_scored": 762665,
+  "n_not_scored": 237863,
+  "scoring_version": "BI10_FHS_V2.1_CALIBRATED",
+  "selected_config": "selected_scoring_config.json",
+  "files": [
+    {
+      "relative_path": "customer_financial_health_BUSINESS.csv",
+      "bytes": 236478144
+    },
+    {
+      "relative_path": "customer_financial_health_FINAL.csv",
+      "bytes": 501464922
+    },
+    {
+      "relative_path": "figures\\01_coverage_and_segmentation.png",
+      "bytes": 56253
+    },
+    {
+      "relative_path": "figures\\02_score_distributions.png",
+      "bytes": 59125
+    },
+    {
+      "relative_path": "figures\\03_score_drivers_and_cap.png",
+      "bytes": 73263
+    },
+    {
+      "relative_path": "figures\\04_historical_approval_alignment.png",
+      "bytes": 89629
+    },
+    {
+      "relative_path": "figures\\05_weight_sensitivity.png",
+      "bytes": 102412
+    },
+    {
+      "relative_path": "selected_scoring_config.json",
+      "bytes": 1403
+    },
+    {
+      "relative_path": "selected_weights.json",
+      "bytes": 390
+    },
+    {
+      "relative_path": "validation_tables\\01_coverage.csv",
+      "bytes": 404
+    },
+    {
+      "relative_path": "validation_tables\\02_score_percentiles.csv",
+      "bytes": 428
+    },
+    {
+      "relative_path": "validation_tables\\03_segments_by_evidence.csv",
+      "bytes": 1563
+    },
+    {
+      "relative_path": "validation_tables\\04_written_off_cap_audit.csv",
+      "bytes": 236
+    },
+    {
+      "relative_path": "validation_tables\\05_approval_overall.csv",
+      "bytes": 491
+    },
+    {
+      "relative_path": "validation_tables\\06_approval_by_evidence.csv",
+      "bytes": 1272
+    },
+    {
+      "relative_path": "validation_tables\\07_approval_by_product.csv",
+      "bytes": 2816
+    },
+    {
+      "relative_path": "validation_tables\\08_approval_by_cohort.csv",
+      "bytes": 6854
+    },
+    {
+      "relative_path": "validation_tables\\09_approval_product_cohort_evidence.csv",
+      "bytes": 76644
+    },
+    {
+      "relative_path": "validation_tables\\10_contract_decision_status_audit.csv",
+      "bytes": 289
+    },
+    {
+      "relative_path": "validation_tables\\11_selected_weight_decision.csv",
+      "bytes": 1159
+    },
+    {
+      "relative_path": "validation_tables\\12_corrected_masked_validation.csv",
+      "bytes": 2124
+    },
+    {
+      "relative_path": "validation_tables\\13_imputation_method_selection.csv",
+      "bytes": 579
+    },
+    {
+      "relative_path": "validation_tables\\14_stress_parameter_tests.csv",
+      "bytes": 437
+    },
+    {
+      "relative_path": "validation_tables\\15_top_factor_summary.csv",
+      "bytes": 380
+    }
+  ]
+}
